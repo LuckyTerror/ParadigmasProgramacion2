@@ -1,2 +1,2 @@
 # ParadigmasProgramacion2
-ICO 4
+Gatito (Lección 2_2)
